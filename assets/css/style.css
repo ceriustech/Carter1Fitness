@@ -1,12 +1,16 @@
+/***** Testimonial Section *****/
 .section-block {
     display: block;
     height: 30em;
-    margin-bottom: 25px;
     width: 100%;
 }
 
 .testimonial-image {
-    width: 40%;
+    width: 35%;
+}
+
+.spacer {
+    margin: 20px 0;
 }
 
 .section-block .text-left {

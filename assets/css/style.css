@@ -1,4 +1,22 @@
 .section-block {
     display: block;
-    height: 25em;
+    height: 30em;
+    margin-bottom: 25px;
+    width: 100%;
+}
+
+.testimonial-image {
+    width: 40%;
+}
+
+.section-block .text {
+    width: 60%; 
+    margin-left: 40%;
+}
+
+.text-right {
+}
+
+.section-block .text p {
+    
 }

@@ -9,12 +9,14 @@
     width: 40%;
 }
 
-.section-block .text {
+.section-block .text-left {
     width: 60%; 
-    margin-left: 40%;
+    margin-right: 40%;
 }
 
 .text-right {
+    width: 60%; 
+    margin-left: 40%;
 }
 
 .section-block .text p {

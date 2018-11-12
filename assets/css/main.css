@@ -2810,7 +2810,9 @@ input, select, textarea {
 		display: flex;
 		cursor: default;
 		list-style: none;
-		margin-left: -1rem;
+		-webkit-box-pack: center;
+		-ms-flex-pack: center;
+		justify-content: center; 
 		padding-left: 0;
 	}
 

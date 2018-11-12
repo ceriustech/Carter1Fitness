@@ -26,3 +26,8 @@
 .section-block .text p {
     
 }
+
+.icon {
+    margin-left: 10px;
+    font-size: 2em;
+}
